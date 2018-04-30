@@ -14,5 +14,8 @@ call vundle#end()
 syntax on
 set encoding=utf-8
 set number
-set clipboard=unnamed
+set clipboard=unnamedplus
 colorscheme desert
+
+"Configuren nerdtree to appear with 
+map <C-x> :NERDTreeToggle<CR>
