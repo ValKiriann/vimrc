@@ -10,7 +10,7 @@ sudo apt-get install vim-gnome
 ## Gestor de plugins Vundle:
 
 ```
-git clone https://github.com/Josheriff/vimrc.git ~/.vim
+git clone https://github.com/ValKiriann/vimrc.git ~/.vim
 cp ~/.vim/vimrc ~/.vimrc
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim +PluginInstall
